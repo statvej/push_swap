@@ -1,0 +1,9 @@
+push_swap
+*.o
+*.a
+checker
+*.dSYM
+a.out
+*.log
+*.ini
+checker_mac
